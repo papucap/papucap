@@ -1,9 +1,3 @@
-## Hi there 👋
-
-# 💫 About Me:
-Student at SPŠE Ječná 
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/patrik.papuca.1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/patrik.papuca) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@patrikk1892) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/patrik_papuca) 
 
